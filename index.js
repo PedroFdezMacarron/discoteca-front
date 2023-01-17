@@ -142,9 +142,3 @@ const init = async () => {
   }
 
 
-  // const res = await fetch('http://localhost:5001/songs',
-  //   { method : 'POST', body: JSON.stringify({title, artist, style, year}),
-  //   headers: {'Content-Type': 'application/json',
-  //   'Authorization':`Bearer + ${token}`
-  // }});
-
